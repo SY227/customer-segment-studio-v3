@@ -1,0 +1,96 @@
+PASS original bytes: .gitignore
+PASS original bytes: tsconfig.json
+PASS original bytes: next.config.ts
+PASS original bytes: package-lock.json
+PASS original bytes: .env.example
+PASS original bytes: package.json
+PASS original bytes: next-env.d.ts
+PASS original bytes: app/globals.css
+PASS original bytes: public/sample-segment-guild-format.csv
+PASS original bytes: public/assets/models/dungeon/Quill.fbx
+PASS original bytes: public/assets/models/dungeon/Wall_Door.fbx
+PASS original bytes: public/assets/models/dungeon/Wall.fbx
+PASS original bytes: public/assets/models/dungeon/Texture.png
+PASS original bytes: public/assets/models/dungeon/Wooden_Barrel.fbx
+PASS original bytes: public/assets/models/dungeon/Blue_Potion.fbx
+PASS original bytes: public/assets/models/dungeon/Torch_Holder.fbx
+PASS original bytes: public/assets/models/dungeon/Green_Potion.fbx
+PASS original bytes: public/assets/models/dungeon/Wooden_Chest.fbx
+PASS original bytes: public/assets/models/dungeon/Bookshelf_2.fbx
+PASS original bytes: public/assets/models/dungeon/Wooden_Box.fbx
+PASS original bytes: public/assets/models/dungeon/Wooden_Table_Small.fbx
+PASS original bytes: public/assets/models/dungeon/Wooden_Table.fbx
+PASS original bytes: public/assets/models/dungeon/Lectern.fbx
+PASS original bytes: public/assets/models/dungeon/Bookshelf_1.fbx
+PASS original bytes: public/assets/models/dungeon/Wall_Window.fbx
+PASS original bytes: public/assets/models/dungeon/Candles.fbx
+PASS original bytes: public/assets/models/dungeon/Rug_4_Way.fbx
+PASS original bytes: public/assets/models/dungeon/Red_Potion.fbx
+PASS original bytes: public/assets/models/dungeon/Pillar.fbx
+PASS original bytes: public/assets/models/dungeon/Ground_Tiles_Large.fbx
+PASS original bytes: public/assets/models/dungeon/Book_Pile_Small.fbx
+PASS original bytes: public/assets/models/dungeon/Chandelier.fbx
+PASS original bytes: public/assets/models/dungeon/Book_Pile_Large.fbx
+PASS original bytes: public/assets/models/dungeon/Wooden_Shelf.fbx
+PASS original bytes: public/assets/models/characters/Druid.glb
+PASS original bytes: public/assets/models/characters/Barbarian.glb
+PASS original bytes: public/assets/models/characters/Rogue.glb
+PASS original bytes: public/assets/models/characters/Rogue_Hooded.glb
+PASS original bytes: public/assets/models/characters/Knight.glb
+PASS original bytes: public/assets/models/characters/barbarian_texture_alt_C.png
+PASS original bytes: public/assets/models/characters/Mage.glb
+PASS original bytes: public/assets/models/characters/Ranger.glb
+PASS original bytes: public/assets/models/characters/Engineer.glb
+PASS original bytes: public/assets/models/characters/Barbarian_Large.glb
+PASS original bytes: src/data/segmentGuildData.ts
+PASS original bytes: src/lib/deterministicSegmentAnalysis.ts
+PASS original bytes: src/components/SegmentCardAvatar.tsx
+PASS original bytes: src/components/HeaderActionsClient.tsx
+PASS original bytes: app/api/segment-analysis/route.ts
+PASS recorded presentation edit: app/page.tsx
+PASS recorded presentation edit: app/layout.tsx
+PASS recorded presentation edit: src/components/SegmentGuildCanvas.tsx
+PASS protected executable range: page-business-controller
+PASS protected executable range: character-motion-profiles
+PASS protected executable range: character-walk-and-rig-kernel
+PASS protected executable range: character-raycasts
+PASS protected executable range: group-auto-rotation
+PASS light palette matches V3 brand tokens
+PASS keyboard focus and reduced UI motion present
+PASS sample dialogs have local overflow handling
+PASS no remote fonts, images, or newly exposed credentials in UI
+PASS valid original GLB structure: Druid.glb
+PASS valid original GLB structure: Barbarian.glb
+PASS valid original GLB structure: Rogue.glb
+PASS valid original GLB structure: Rogue_Hooded.glb
+PASS valid original GLB structure: Knight.glb
+PASS valid original GLB structure: Mage.glb
+PASS valid original GLB structure: Ranger.glb
+PASS valid original GLB structure: Engineer.glb
+PASS valid original GLB structure: Barbarian_Large.glb
+PASS all original nine character models present
+PASS source asset references resolve locally
+PASS TypeScript syntax/transpilation: app/page.tsx
+PASS TypeScript syntax/transpilation: app/layout.tsx
+PASS TypeScript syntax/transpilation: app/api/segment-analysis/route.ts
+PASS TypeScript syntax/transpilation: src/components/HeaderActionsClient.tsx
+PASS TypeScript syntax/transpilation: src/components/SegmentCardAvatar.tsx
+PASS TypeScript syntax/transpilation: src/components/SegmentGuildCanvas.tsx
+PASS TypeScript syntax/transpilation: src/data/segmentGuildData.ts
+PASS TypeScript syntax/transpilation: src/lib/deterministicSegmentAnalysis.ts
+PASS TypeScript syntax/transpilation: next.config.ts
+PASS TypeScript syntax/transpilation: src/components/AtelierChrome.tsx
+PASS TypeScript syntax/transpilation: src/lib/createAtelierScene.ts
+PASS all nine group labels and default selection unchanged
+PASS single customer and same-value ties keep baseline scoring
+PASS invalid rows do not alter valid totals
+PASS empty dataset still raises a validation error
+PASS larger dataset preserves totals and customer coverage
+PASS isolated sample API produces deterministic metrics without a key
+PASS isolated CSV upload / quoted amount / duplicate customer
+PASS isolated invalid upload preserves original error contract
+PASS mocked AI can edit soft guidance, never hard metrics or labels
+
+92 checks passed.
+Scope: byte preservation, asset structure, TS transpilation, isolated deterministic/CSV/API tests.
+Not covered: Next build, real Excel parser, live AI provider, browser/WebGL/real-device performance.

@@ -1,0 +1,27 @@
+{
+  "name": "Customer Segment Studio V3",
+  "version": "3.0.0",
+  "edition": "Evidence + Action",
+  "status": "Production release; deployment gated by full local QA",
+  "source_repository": "SY227/customer-segment-studio-v2",
+  "source_commit": "b587b86211c74cb0935d7b75eb0f8e9592aefc59",
+  "original_character_glbs": 9,
+  "original_model_texture_files": 35,
+  "remote_mutations": false,
+  "qa": {
+    "source_asset_syntax_passed": 107,
+    "behavioral_tests_passed": 57,
+    "real_excel_tests_not_executed": 4,
+    "isolated_lifecycle_passed": 8,
+    "persistent_hall_passed": 7,
+    "css_only_layout_checks_passed": 114,
+    "full_typecheck": "not executed",
+    "next_build": "not executed",
+    "webgl_runtime": "not executed",
+    "live_provider": "not executed"
+  },
+  "dependency_change": "SheetJS 0.20.3 official tarball; install not verified in restricted environment",
+  "repository": "SY227/customer-segment-studio-v3",
+  "promoted_from": "Customer Segment Studio V2.1 Outreach Ready",
+  "promoted_from_repository": "SY227/customer-segment-studio-v2"
+}

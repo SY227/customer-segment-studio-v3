@@ -1,0 +1,10 @@
+PASS decoration attaches without removing the original room
+PASS no decorative object impersonates a segment hit target
+PASS all nine actors remain unmodified by the effect layer
+PASS render-resource parameters are finite
+PASS no per-frame resource creation after initial setup
+PASS dispose removes only the decoration layer
+PASS owned resources are disposed exactly once
+PASS cleanup is idempotent and late updates are safe
+
+8 isolated lifecycle checks passed. Adapter only; no WebGL was executed.

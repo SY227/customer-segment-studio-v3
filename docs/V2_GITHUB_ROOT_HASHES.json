@@ -1,0 +1,19 @@
+{
+  ".env.example": "1d6a3ad6744ad2160b723a99ad443c7d6542a4eb",
+  ".gitignore": "5763bec18a824562a08f205ff74a5ea90047f41f",
+  "FILE_MANIFEST.sha256": "79d3cf2cfaa30ec745ec0c2b9f37ab512f609dcd",
+  "README.md": "ab58db0cf8044e99477a81288078a1af0315d05a",
+  "RELEASE.json": "c9417e626998ae0c314094beb86cf33f0160b13c",
+  "app": "c90b20d23fcafe38c1b02ceb90d70be78c28f7cc",
+  "docs": "29e2d8981e89b13ca0cd894e60db09b9956fef24",
+  "next-env.d.ts": "9edff1c7cacb3bfac9a1eadcf6f51eaa99565e38",
+  "next.config.ts": "536c27761dd417253888389d28ea8b7d1a0d80bd",
+  "package-lock.json": "5005c7ef25e7e9eceb1dc6932b1a59edb5785f5a",
+  "package.json": "b897a00c82a72f43c3c76ec86242830da2f14b72",
+  "public": "146c04ae3968665b04c95ceb0d1e22ca45d6d999",
+  "scripts": "7ecf164113ef69de6e6d67817e135dfb27e4900f",
+  "src": "6acb648041bce188ee5b7a564f3b06b56497a6fe",
+  "start-local.sh": "5796878213c8dc77c727dbe47308bc04465a18cf",
+  "tsconfig.json": "5d998c45a2a57b1397efb71748733e54095ce355",
+  "tsconfig.tsbuildinfo": "66a4724f17d6c539c4d9fe81d76fd5eb62f13d1e"
+}

@@ -1,0 +1,586 @@
+[
+  {
+    "width": 320,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 320,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 320,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 320,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 320,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 320,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 320,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 320,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 360,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 360,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 360,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 360,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 360,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 360,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 360,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 360,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 390,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 390,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 390,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 390,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 390,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 390,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 390,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 390,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 430,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 430,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 430,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 430,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 430,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 430,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 430,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 430,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 640,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 640,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 640,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 640,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 640,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 640,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 640,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 640,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 768,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 768,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 768,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 768,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 768,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 768,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 768,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 768,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 980,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 980,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 980,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 980,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 980,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 980,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 980,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 980,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1024,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 1024,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1024,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 1024,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1024,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 1024,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1024,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 1024,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1180,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 1180,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1180,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 1180,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1180,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 1180,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1180,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 1180,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1280,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 1280,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1280,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 1280,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1280,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 1280,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1280,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 1280,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1440,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1440,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1440,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1440,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1600,
+    "state": "default",
+    "overflow": false,
+    "scrollWidth": 1600,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 1600,
+    "state": "sample-format",
+    "overflow": false,
+    "scrollWidth": 1600,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1600,
+    "state": "sample-data",
+    "overflow": false,
+    "scrollWidth": 1600,
+    "buttons": 14,
+    "light": "light",
+    "modal": true
+  },
+  {
+    "width": 1600,
+    "state": "processing",
+    "overflow": false,
+    "scrollWidth": 1600,
+    "buttons": 13,
+    "light": "light",
+    "modal": null
+  },
+  {
+    "width": 390,
+    "state": "group-0",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Best Customers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-0",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Best Customers",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-1",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Loyal Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-1",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Loyal Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-2",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "New Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-2",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "New Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-3",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "At-Risk VIPs",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-3",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "At-Risk VIPs",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-4",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Growing Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-4",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Growing Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-5",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Occasional Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-5",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Occasional Buyers",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-6",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Dormant VIPs",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-6",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Dormant VIPs",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-7",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Light Repeaters",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-7",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Light Repeaters",
+    "pressed": 1
+  },
+  {
+    "width": 390,
+    "state": "group-8",
+    "overflow": false,
+    "scrollWidth": 390,
+    "selected": "Inactive Customers",
+    "pressed": 1
+  },
+  {
+    "width": 1440,
+    "state": "group-8",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "selected": "Inactive Customers",
+    "pressed": 1
+  },
+  {
+    "state": "focus-visible",
+    "value": "solid"
+  },
+  {
+    "state": "reduced-ui-motion",
+    "duration": "0s"
+  }
+]

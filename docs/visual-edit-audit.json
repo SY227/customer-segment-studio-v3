@@ -1,0 +1,128 @@
+{
+  "app/page.tsx": {
+    "before_sha256": "e93880e0fba0a46a13cbf16edb18218a3d7f78921ffabc1bf145636a62294d6d",
+    "after_sha256": "eb5adfdf51b4eca89f80c02a57f653dc20293ed022e69fe9c52938dfc79bdb4b",
+    "changes": [
+      {
+        "before": "",
+        "after": "import { AtelierChrome, GuildSeal, HeaderEngraving } from \"@/components/AtelierChrome\";\n",
+        "line_before": 5,
+        "line_after": 5
+      },
+      {
+        "before": "",
+        "after": "      <AtelierChrome />\n",
+        "line_before": 167,
+        "line_after": 168
+      },
+      {
+        "before": "",
+        "after": "          <HeaderEngraving />\n",
+        "line_before": 169,
+        "line_after": 171
+      },
+      {
+        "before": "",
+        "after": "              <GuildSeal />\n",
+        "line_before": 171,
+        "line_after": 174
+      },
+      {
+        "before": "            <h1 suppressHydrationWarning>Customer Segment Studio</h1>\n",
+        "after": "            <h1 suppressHydrationWarning>Customer Segment <em>Studio</em></h1>\n",
+        "line_before": 173,
+        "line_after": 177
+      },
+      {
+        "before": "          <aside className=\"detail-panel panel\">\n",
+        "after": "          <aside className=\"detail-panel panel\" style={{ [\"--selected-accent\" as string]: selectedSegment.accent, [\"--selected-soft\" as string]: selectedSegment.accentSoft }}>\n",
+        "line_before": 230,
+        "line_after": 234
+      },
+      {
+        "before": "",
+        "after": "                    <span className=\"portrait-engraving\" aria-hidden=\"true\"><GuildSeal /></span>\n",
+        "line_before": 336,
+        "line_after": 340
+      }
+    ]
+  },
+  "app/layout.tsx": {
+    "before_sha256": "65cee0cdc9695b415f337d4fa31b2b284001d0bd7e90df58e5749d93050270c0",
+    "after_sha256": "bed2f458bbcc44ee88bad21bd228233f3db9caaa7000994f5bd055c98b7e7632",
+    "changes": [
+      {
+        "before": "",
+        "after": "import \"./atelier.css\";\n",
+        "line_before": 3,
+        "line_after": 3
+      }
+    ]
+  },
+  "src/components/SegmentGuildCanvas.tsx": {
+    "before_sha256": "f3c09050d52b9d678651014b3d7f06141e537e4e42310223eb222fe7309deb8d",
+    "after_sha256": "3017d59743b08467f3d5de5bac2674f314ea57f8fe496325a1f0fdecce834ce0",
+    "changes": [
+      {
+        "before": "",
+        "after": "import { GuildSeal } from \"./AtelierChrome\";\nimport { createAtelierScene } from \"@/lib/createAtelierScene\";\n",
+        "line_before": 4,
+        "line_after": 4
+      },
+      {
+        "before": "",
+        "after": "  const [atmosphereEnabled, setAtmosphereEnabled] = useState(true);\n  const atmosphereEnabledRef = useRef(true);\n  const [prefersReducedMotion, setPrefersReducedMotion] = useState(false);\n  const [characterCount, setCharacterCount] = useState(0);\n\n  useEffect(() => {\n    atmosphereEnabledRef.current = atmosphereEnabled;\n  }, [atmosphereEnabled]);\n\n  useEffect(() => {\n    const query = window.matchMedia(\"(prefers-reduced-motion: reduce)\");\n    const sync = () => setPrefersReducedMotion(query.matches);\n    sync();\n    query.addEventListener(\"change\", sync);\n    return () => query.removeEventListener(\"change\", sync);\n  }, []);\n",
+        "line_before": 117,
+        "line_after": 119
+      },
+      {
+        "before": "      scene.background = new THREE.Color(0xeff3f7);\n      scene.fog = new THREE.Fog(0xeff3f7, 46, 72);\n",
+        "after": "      scene.background = new THREE.Color(0xe7edf0);\n      scene.fog = new THREE.Fog(0xe7edf0, 46, 72);\n",
+        "line_before": 163,
+        "line_after": 181
+      },
+      {
+        "before": "",
+        "after": "      renderer.toneMapping = THREE.ACESFilmicToneMapping;\n      renderer.toneMappingExposure = 1.12;\n",
+        "line_before": 168,
+        "line_after": 186
+      },
+      {
+        "before": "",
+        "after": "      // Optional art layer; never replaces the existing room, models or interaction loop.\n      let atelier: ReturnType<typeof createAtelierScene> | null = null;\n      if (!disposed) {\n        try { atelier = createAtelierScene(THREE, scene); }\n        catch (error) { console.warn(\"Decorative atmosphere unavailable; original scene remains active.\", error); }\n        setCharacterCount(characterEntries.length);\n      }\n      const motionPreference = window.matchMedia(\"(prefers-reduced-motion: reduce)\");\n\n",
+        "line_before": 697,
+        "line_after": 717
+      },
+      {
+        "before": "",
+        "after": "        atelier?.update(elapsed, atmosphereEnabledRef.current && !motionPreference.matches, selectedKeyRef.current, characterEntries);\n",
+        "line_before": 1106,
+        "line_after": 1135
+      },
+      {
+        "before": "",
+        "after": "        atelier?.dispose();\n",
+        "line_before": 1113,
+        "line_after": 1143
+      },
+      {
+        "before": "    void initScene();\n",
+        "after": "    void initScene().catch((error: unknown) => {\n      if (!disposed) reportIssue(\"3D scene\", error);\n    });\n",
+        "line_before": 1135,
+        "line_after": 1166
+      },
+      {
+        "before": "    <div className=\"guild-canvas-shell\">\n",
+        "after": "    <div className=\"guild-canvas-shell\" data-character-count={characterCount} data-atmosphere={atmosphereEnabled && !prefersReducedMotion ? \"on\" : \"off\"}>\n",
+        "line_before": 1145,
+        "line_after": 1178
+      },
+      {
+        "before": "",
+        "after": "\n      <div className=\"atelier-corners\" aria-hidden=\"true\"><i /><i /><i /><i /></div>\n      <div className=\"atelier-scene-label\" aria-hidden=\"true\">\n        <GuildSeal />\n        <div><strong>The Segment Guild</strong><small>Nine groups. Different next moves.</small></div>\n      </div>\n      <div className=\"atelier-scene-footer\">\n        <button\n          type=\"button\"\n          className=\"atmosphere-button\"\n          aria-pressed={atmosphereEnabled && !prefersReducedMotion}\n          disabled={prefersReducedMotion}\n          title=\"Toggle decorative rays and dust. Original character movement and group selection are unchanged.\"\n          onClick={() => setAtmosphereEnabled((enabled) => !enabled)}\n        >\n          <svg viewBox=\"0 0 20 20\" fill=\"none\" stroke=\"currentColor\" aria-hidden=\"true\"><path d=\"m10 2 2.4 5.6L18 10l-5.6 2.4L10 18l-2.4-5.6L2 10l5.6-2.4Z\" /></svg>\n          {prefersReducedMotion ? \"Ambient effects reduced\" : atmosphereEnabled ? \"Ambient effects on\" : \"Ambient effects off\"}\n        </button>\n        <span>Click a character to explore.</span>\n      </div>\n",
+        "line_before": 1147,
+        "line_after": 1180
+      }
+    ]
+  }
+}

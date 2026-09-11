@@ -1,0 +1,109 @@
+PASS preserved V2 bytes: next.config.ts
+PASS preserved V2 bytes: tsconfig.json
+PASS preserved V2 bytes: public/sample-segment-guild-format.csv
+PASS preserved V2 bytes: app/atelier.css
+PASS preserved V2 bytes: app/globals.css
+PASS preserved V2 bytes: docs/atelier-lifecycle-results.txt
+PASS preserved V2 bytes: docs/protected-behavior.json
+PASS preserved V2 bytes: docs/ASSETS.md
+PASS preserved V2 bytes: docs/preservation-test-results-v1.1.1.txt
+PASS preserved V2 bytes: docs/persistent-hall-results.txt
+PASS preserved V2 bytes: docs/visual-edit-audit.json
+PASS preserved V2 bytes: docs/preservation-test-results.txt
+PASS preserved V2 bytes: docs/CHANGES.md
+PASS preserved V2 bytes: docs/preservation-baseline.json
+PASS preserved V2 bytes: docs/layout-results.json
+PASS preserved V2 bytes: docs/atelier-lifecycle-results-v1.1.1.txt
+PASS preserved V2 bytes: docs/ACCEPTANCE.md
+PASS preserved V2 bytes: scripts/test-atelier-layer.cjs
+PASS preserved V2 bytes: scripts/test-persistent-hall.cjs
+PASS preserved V2 bytes: scripts/qa/layout_browser.py
+PASS preserved V2 bytes: src/lib/createAtelierScene.ts
+PASS preserved V2 bytes: src/components/SegmentGuildCanvas.tsx
+PASS preserved V2 bytes: src/components/AtelierChrome.tsx
+PASS preserved V2 bytes: src/components/SegmentCardAvatar.tsx
+PASS preserved V2 bytes: docs/licenses/low-poly-dungeon-info.txt
+PASS preserved V2 bytes: docs/licenses/kaykit-adventurers-license.txt
+PASS preserved V2 bytes: docs/previous-release/layout-only-results.json
+PASS preserved V2 bytes: docs/previous-release/QA_REPORT.md
+PASS preserved V2 bytes: docs/previous-release/verification-results.txt
+PASS preserved V2 bytes: docs/previous-release/CHANGES.md
+PASS preserved V2 bytes: docs/previous-release/baseline-manifest.json
+PASS preserved V2 bytes: docs/previous-release/visual-changes.json
+PASS preserved V2 bytes: docs/previous-release/ACCEPTANCE.md
+PASS preserved V2 bytes: public/assets/models/characters/Knight.glb
+PASS preserved V2 bytes: public/assets/models/characters/Rogue.glb
+PASS preserved V2 bytes: public/assets/models/characters/barbarian_texture_alt_C.png
+PASS preserved V2 bytes: public/assets/models/characters/Barbarian.glb
+PASS preserved V2 bytes: public/assets/models/characters/Rogue_Hooded.glb
+PASS preserved V2 bytes: public/assets/models/characters/Mage.glb
+PASS preserved V2 bytes: public/assets/models/characters/Barbarian_Large.glb
+PASS preserved V2 bytes: public/assets/models/characters/Druid.glb
+PASS preserved V2 bytes: public/assets/models/characters/Engineer.glb
+PASS preserved V2 bytes: public/assets/models/characters/Ranger.glb
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Table.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Torch_Holder.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wall.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Quill.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Barrel.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Pillar.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Bookshelf_1.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Blue_Potion.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Shelf.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Chest.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wall_Door.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Candles.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Box.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Bookshelf_2.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Ground_Tiles_Large.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wooden_Table_Small.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Texture.png
+PASS preserved V2 bytes: public/assets/models/dungeon/Lectern.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Wall_Window.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Red_Potion.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Chandelier.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Book_Pile_Large.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Book_Pile_Small.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Rug_4_Way.fbx
+PASS preserved V2 bytes: public/assets/models/dungeon/Green_Potion.fbx
+PASS preserved 3D behavior range: character-motion-profiles
+PASS preserved 3D behavior range: character-walk-and-rig-kernel
+PASS preserved 3D behavior range: character-raycasts
+PASS preserved 3D behavior range: group-auto-rotation
+PASS all nine original character GLBs are present and structurally valid
+PASS all local model/texture references resolve
+PASS generated Next type entry remains present
+PASS version and install declarations agree
+PASS environment example contains no API key value
+PASS no remote fonts or art added
+PASS keyboard and reduced-motion styles exist
+PASS member review freezes auto-selection without removing 3D motion
+PASS default data is analyzed server-side, not fabricated membership
+PASS new client UI does not import server parsers or keys
+PASS historical metric label replaces unsupported at-stake claim
+PASS TypeScript/JSX syntax: app/api/segment-analysis/route.ts
+PASS TypeScript/JSX syntax: app/layout.tsx
+PASS TypeScript/JSX syntax: app/page.tsx
+PASS TypeScript/JSX syntax: src/components/AnalysisBasis.tsx
+PASS TypeScript/JSX syntax: src/components/AtelierChrome.tsx
+PASS TypeScript/JSX syntax: src/components/HeaderActionsClient.tsx
+PASS TypeScript/JSX syntax: src/components/ImportMapping.tsx
+PASS TypeScript/JSX syntax: src/components/MemberReview.tsx
+PASS TypeScript/JSX syntax: src/components/SegmentCardAvatar.tsx
+PASS TypeScript/JSX syntax: src/components/SegmentGuildCanvas.tsx
+PASS TypeScript/JSX syntax: src/components/StudioClient.tsx
+PASS TypeScript/JSX syntax: src/components/StudioDialog.tsx
+PASS TypeScript/JSX syntax: src/data/sampleOrders.ts
+PASS TypeScript/JSX syntax: src/data/segmentGuildData.ts
+PASS TypeScript/JSX syntax: src/lib/actionExport.ts
+PASS TypeScript/JSX syntax: src/lib/analysisService.ts
+PASS TypeScript/JSX syntax: src/lib/analysisTypes.ts
+PASS TypeScript/JSX syntax: src/lib/createAtelierScene.ts
+PASS TypeScript/JSX syntax: src/lib/deterministicSegmentAnalysis.ts
+PASS TypeScript/JSX syntax: src/lib/importAliases.ts
+PASS TypeScript/JSX syntax: src/lib/orderImport.ts
+PASS TypeScript/JSX syntax: src/lib/presentation.ts
+PASS TypeScript/JSX syntax: src/lib/softGuidance.ts
+PASS TypeScript/JSX syntax: next.config.ts
+
+107 source/asset/syntax checks passed. Next.js build, full typecheck and browser/WebGL runtime are separate gates.

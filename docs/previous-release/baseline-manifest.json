@@ -1,0 +1,288 @@
+{
+  "sourceRepository": "SY227/Customer-Segment-Studio",
+  "files": {
+    "package.json": {
+      "sha256": "26abe872c703621566037caa436e96e9d77f47a98e887f51d0145d36c01c6e86",
+      "gitBlob": "d89d8e233a8a2d3ba9c247b79a46017263070a39",
+      "bytes": 495
+    },
+    ".gitignore": {
+      "sha256": "85ee731b0228d6ff9adfa03bd44d94d0ec47b356d77fde85386993efc5ec266c",
+      "gitBlob": "5763bec18a824562a08f205ff74a5ea90047f41f",
+      "bytes": 245
+    },
+    "tsconfig.json": {
+      "sha256": "5563bf72ae43a35ad7902e45d2c0e491e6ac05cb1d35ea3b0c10e3711484903b",
+      "gitBlob": "5d998c45a2a57b1397efb71748733e54095ce355",
+      "bytes": 703
+    },
+    "next-env.d.ts": {
+      "sha256": "7b550dda9686c16f36a17bf9051d5dbf31e98555b30d114ac49fc49a1e712651",
+      "gitBlob": "9edff1c7cacb3bfac9a1eadcf6f51eaa99565e38",
+      "bytes": 247
+    },
+    "package-lock.json": {
+      "sha256": "af70163bf03507668853c89865883003fc0140b45c21be607604cf8bfc2c704c",
+      "gitBlob": "8ea096871891a5333dee822ccb8d51a812fa68e3",
+      "bytes": 39035
+    },
+    "next.config.ts": {
+      "sha256": "87e9afe26c306cabf2cc7b7044d8a697d694ffb7fa74b5e1f7c22d27bfb556ed",
+      "gitBlob": "536c27761dd417253888389d28ea8b7d1a0d80bd",
+      "bytes": 291
+    },
+    ".env.example": {
+      "sha256": "d8a5307154d6e4906e900eb03ef3e8fb071b7ad5dd6272f11586544e459dfcf2",
+      "gitBlob": "1d6a3ad6744ad2160b723a99ad443c7d6542a4eb",
+      "bytes": 16
+    },
+    "app/globals.css": {
+      "sha256": "49e74c3ebf5ee301a35c5725e152aa3d6af5aced22e545538c9ade3234aa3a35",
+      "gitBlob": "04f52685369a45997433967a2cb3a7091ae32617",
+      "bytes": 19712
+    },
+    "app/layout.tsx": {
+      "sha256": "65cee0cdc9695b415f337d4fa31b2b284001d0bd7e90df58e5749d93050270c0",
+      "gitBlob": "efa5462a279a55870a0b03fad7c871e0bc07d90f",
+      "bytes": 502
+    },
+    "app/page.tsx": {
+      "sha256": "e93880e0fba0a46a13cbf16edb18218a3d7f78921ffabc1bf145636a62294d6d",
+      "gitBlob": "ab19895b1398603e4df32d4dd504c4e3b7dac707",
+      "bytes": 20265
+    },
+    "docs/ASSETS.md": {
+      "sha256": "1d9da68bcf21a409ba03a3de094fc16b922b37d7bd584e3c95e9429380dadef4",
+      "gitBlob": "20ca4c82d3f030da1a19ee158995e0e8cd2577b9",
+      "bytes": 3762
+    },
+    "public/sample-segment-guild-format.csv": {
+      "sha256": "c2c4ed59270af32d0985cb118064e0c636ab2043a7e83b6374cfc115321a65ad",
+      "gitBlob": "3fa14e628a8de198fcee77b1f8571514f041f8a9",
+      "bytes": 165
+    },
+    "public/assets/models/dungeon/Book_Pile_Small.fbx": {
+      "sha256": "eb16c8092ea048f371d82b2b67dbe89167485846fb5162c5b026dc589d0f00c8",
+      "gitBlob": "bfcc2bc3455de5986d020dbb635744cd77022ce0",
+      "bytes": 22604
+    },
+    "public/assets/models/dungeon/Pillar.fbx": {
+      "sha256": "26193cbb64180455d8b9824284b0ee348d197f4de364214730829bebb1ec176b",
+      "gitBlob": "c3721b7dc8bb65ab28a4409f1848f7a8899c31f1",
+      "bytes": 24908
+    },
+    "public/assets/models/dungeon/Red_Potion.fbx": {
+      "sha256": "dee37b7302e9de2fc4aace3cdd2b4c5315844fd4f6156ee809ae7a2ec0ac299f",
+      "gitBlob": "827bfbd37b2df07110f5d03ce66f6a14b732c045",
+      "bytes": 20620
+    },
+    "public/assets/models/dungeon/Wall_Window.fbx": {
+      "sha256": "f71ef392a98902b492e78bd8ef5c26a4ffb873061642b84b47664a15c09abb85",
+      "gitBlob": "3514cf416f16eee1eea0c33234bb7e7316dc1c7b",
+      "bytes": 31804
+    },
+    "public/assets/models/dungeon/Wooden_Table_Small.fbx": {
+      "sha256": "ef13b47435f13ec6222468a6dfa1a450863cdecb36b3adad9f5cf4751c8aa21f",
+      "gitBlob": "895ab0bee9a47d9e56f28dd2e1c6a75b2a616f22",
+      "bytes": 26924
+    },
+    "public/assets/models/dungeon/Wall_Door.fbx": {
+      "sha256": "9dc5f72a31fc9c910b366aa084c18bd4d447ead1e74131e2e9bdb70ced714a18",
+      "gitBlob": "818c0833bfae4cbccac275039ef350d4411e0211",
+      "bytes": 30668
+    },
+    "public/assets/models/dungeon/Wooden_Shelf.fbx": {
+      "sha256": "cfaa6a1cd4438fd98dfd9116515eac3abd24a5f99bd816e191817d28885137b5",
+      "gitBlob": "8ee556100cf45738d96ac6a0517d4831d7660f63",
+      "bytes": 22028
+    },
+    "public/assets/models/dungeon/Wall.fbx": {
+      "sha256": "9981eeb5d5ba981b06749eafbfcfcc22969ad76b3fea74a3e1e3dd082e5ae2fb",
+      "gitBlob": "c3eb46a51287173b2ad55387afbddcfcab71a7da",
+      "bytes": 27052
+    },
+    "public/assets/models/dungeon/Bookshelf_2.fbx": {
+      "sha256": "1560352db2769cb4ff5c5033c86b1f97be28bea94c0246b772baac0a1a35f4b6",
+      "gitBlob": "eeeebea305587b04fed8fd944027c88afeff6ca3",
+      "bytes": 43564
+    },
+    "public/assets/models/dungeon/Ground_Tiles_Large.fbx": {
+      "sha256": "1fe1bb2b5fa83c5a995edc649972ef73f7c3de25f5f40f0ea2bcd557c61d403c",
+      "gitBlob": "e342a07aade34b83486ec339a49f214112b9bae0",
+      "bytes": 46380
+    },
+    "public/assets/models/dungeon/Rug_4_Way.fbx": {
+      "sha256": "edf082c780d9b45fe2a6db40b43843042dec80ee9c2fb33efbce466097198879",
+      "gitBlob": "7fc9ae64e3002fde513bd07c87074037092010f4",
+      "bytes": 22492
+    },
+    "public/assets/models/dungeon/Torch_Holder.fbx": {
+      "sha256": "e072018e5e674f88ba44e667e24ba6702bc13888e62e6687b1cff5fa50f73ea0",
+      "gitBlob": "f36bffaffe026a99e1a9249339b735604d95a983",
+      "bytes": 24428
+    },
+    "public/assets/models/dungeon/Wooden_Barrel.fbx": {
+      "sha256": "dcbd68c812e8699786fdfdbacb65c9f7226a1bbec54c07b1d254b6202487bc00",
+      "gitBlob": "c2dbb2578f8162c9c00b261f716521ec6f31bc9f",
+      "bytes": 35900
+    },
+    "public/assets/models/dungeon/Bookshelf_1.fbx": {
+      "sha256": "559179dbaf48d78ade44a03591a09edb6f5a8b1450f477de18fd57c40db6e8ec",
+      "gitBlob": "5322f8bf10875f88837fd2dc5a23d5f5993feef6",
+      "bytes": 29452
+    },
+    "public/assets/models/dungeon/Wooden_Box.fbx": {
+      "sha256": "772bb333925fcc9f3dd2f76fac6d8bce7018c68c5d8615523180c65960ea8e47",
+      "gitBlob": "ee0448ca534a539b7bcc0856fbaadb150afc1000",
+      "bytes": 33212
+    },
+    "public/assets/models/dungeon/Green_Potion.fbx": {
+      "sha256": "d7f55dcf461754a194e75b721f40b94955e12a2d6ef5edc1aa8cf22ce14643ab",
+      "gitBlob": "175dfe529975724608a7a6dce2cd1d90e9720e1c",
+      "bytes": 21292
+    },
+    "public/assets/models/dungeon/Book_Pile_Large.fbx": {
+      "sha256": "d2aaa1d8a426a8fae5190ff50c3c17d055957bfe83b59353a461c04c8b22adcf",
+      "gitBlob": "012bbfecc5b85bfc757f75f81dbbae0cdea6293e",
+      "bytes": 32796
+    },
+    "public/assets/models/dungeon/Chandelier.fbx": {
+      "sha256": "0ef4d463e1fc28936d1677eb8be28a993016029df14a19d9fa47314b54ce78e6",
+      "gitBlob": "bedbfc78a1ad40f53de1e8d17d753a7d40a9c6db",
+      "bytes": 35724
+    },
+    "public/assets/models/dungeon/Wooden_Table.fbx": {
+      "sha256": "6bf6cd510dfbf89eebba0a92e1219e5b9da4751b87e152e5b380dddfa468d728",
+      "gitBlob": "856f5b65300a1d043afbfa40048a0aa730e548e2",
+      "bytes": 24124
+    },
+    "public/assets/models/dungeon/Wooden_Chest.fbx": {
+      "sha256": "82e5d392d04478e02657be199eb3a820854a0c4bd16c77dbe6839d19e81a0e20",
+      "gitBlob": "a1480eba86ee987b09a7e87c376cc0b56ad666d3",
+      "bytes": 49420
+    },
+    "public/assets/models/dungeon/Lectern.fbx": {
+      "sha256": "b892506cb32128cb3ef0bcb68c6587fe92cd130d64567bfe370b3aa98b63b514",
+      "gitBlob": "757d96aeaede25bfa8b7a586da271ca8f23d57e9",
+      "bytes": 25372
+    },
+    "public/assets/models/dungeon/Candles.fbx": {
+      "sha256": "c6e197b216fea5a2f026c280f87980fdf5c464d340923c756c389ed526582cb6",
+      "gitBlob": "65739dd0553839921d7d7394e7a9aaf1e2f39c3e",
+      "bytes": 24860
+    },
+    "public/assets/models/dungeon/Blue_Potion.fbx": {
+      "sha256": "c3eb1c7e5af8b925d3ec611667b3bce7f7336ee000fd9420193bff4540505f33",
+      "gitBlob": "54602b42464d05f60053716c4bc944a3297e66e0",
+      "bytes": 21020
+    },
+    "public/assets/models/dungeon/Quill.fbx": {
+      "sha256": "2e6352003d1ab29df0ac58d68d6a41e14073aed36c65c6314d006cb5f07a45ea",
+      "gitBlob": "c449ebfca43a654fb233a063f5f36189c31a854d",
+      "bytes": 21708
+    },
+    "public/assets/models/dungeon/Texture.png": {
+      "sha256": "56fd6605e5b9a30349587b74f4b6e7f5855ea1101e4354240c673edfd43f2943",
+      "gitBlob": "8225213e1770e55bb7726c7caec014e2342c4e1c",
+      "bytes": 19687
+    },
+    "public/assets/models/characters/Mage.glb": {
+      "sha256": "1f7d891bde50b879c70965f155b7b765b166dc3f8518e5abb86c0002f191a26e",
+      "gitBlob": "66eac745c7d4360e463bf4c4e5e117e4c0c58b1e",
+      "bytes": 352472
+    },
+    "public/assets/models/characters/Engineer.glb": {
+      "sha256": "3398a54498a8a6a3babb43ac5f04aa8ae133d35848ed32139ffab097dcf0942a",
+      "gitBlob": "76e0fa53fbb06730bec20d843b8ad186382717d1",
+      "bytes": 455468
+    },
+    "public/assets/models/characters/Knight.glb": {
+      "sha256": "e484370733824a0740683e7f6040aae0d20e5efd4107dde1175d6a2ad7e2f199",
+      "gitBlob": "793ac234dcc0509222b073a314d2ab5f18551797",
+      "bytes": 341688
+    },
+    "public/assets/models/characters/Barbarian_Large.glb": {
+      "sha256": "809a7eca2bff3069a864b04150d7983c1d0b320e9176d6a3d158dc5482921adb",
+      "gitBlob": "696c5d12646810609af80dce70f5e02e34ccd716",
+      "bytes": 686880
+    },
+    "public/assets/models/characters/Druid.glb": {
+      "sha256": "43c6141be32f60ef8f1e0e1aed90caf6acd1d88c2fa469ec59d92ff23280c106",
+      "gitBlob": "ef5f195499e4190193915a6f2696a9f4086c806f",
+      "bytes": 465800
+    },
+    "public/assets/models/characters/Rogue.glb": {
+      "sha256": "cae5d9b2f08d53f7b4ab2617d9f42f021c546eb10920455fdcd82a110867fae4",
+      "gitBlob": "6f28b937ec57b06815240fbf4106c58e76a74c0c",
+      "bytes": 409188
+    },
+    "public/assets/models/characters/Rogue_Hooded.glb": {
+      "sha256": "e8f3233c6db190506fbef3ad855683e6cb8bd7350de637d923e14a08aef088dc",
+      "gitBlob": "7063f6cbca7fd2445c9b804a9f157c11c0e7b0f2",
+      "bytes": 381432
+    },
+    "public/assets/models/characters/barbarian_texture_alt_C.png": {
+      "sha256": "5e1f20e038b4a41dac94b359a9dccaa079bab71d9a29f3221a6b0a04e6bee3c9",
+      "gitBlob": "ff2859902cbc1ab2ced0480b198bacfb35db0084",
+      "bytes": 14419
+    },
+    "public/assets/models/characters/Ranger.glb": {
+      "sha256": "3a0b0166b9d61d58dcaaa739c3cc0538be46e00d2928dd5cb513d9a41770d2e9",
+      "gitBlob": "8edaf04430036130c3a7fcb6767049aac3c3f3a7",
+      "bytes": 484712
+    },
+    "public/assets/models/characters/Barbarian.glb": {
+      "sha256": "d37824a1d6e8e8af57ef9ae4a87e9271c3986210fbc432fb44670749a577ccac",
+      "gitBlob": "d06efc99d5fe8541a31affdd0a25d0c519980c89",
+      "bytes": 386648
+    },
+    "src/components/SegmentGuildCanvas.tsx": {
+      "sha256": "54ebc351b7196513da22a23366815f4df23683154a5347a6ace3fd48940bf342",
+      "gitBlob": "85e1429e6d51c488cacc70cb1adf3dc68604802d",
+      "bytes": 52908
+    },
+    "src/components/HeaderActionsClient.tsx": {
+      "sha256": "c4c90310e70b43875c03ed422d05f48ef69d1822644299ce1ec6cec80b139173",
+      "gitBlob": "a2d9daa090ce3690119f197cf3791c3e74317cb4",
+      "bytes": 2567
+    },
+    "src/components/SegmentCardAvatar.tsx": {
+      "sha256": "f5a9560136a5b322b84a6e6397e6f2b00fd340115238361f4ba4ef9728540032",
+      "gitBlob": "1df1528c0cfd05792b6fc65385f85eb21fc7fde6",
+      "bytes": 15678
+    },
+    "src/lib/deterministicSegmentAnalysis.ts": {
+      "sha256": "77ff4dc95e965606ea1b09cd04b75f892aad4414b73442ff0ee3a029e6484690",
+      "gitBlob": "34ccd859b573c30a7d00560da0806acd81612497",
+      "bytes": 5513
+    },
+    "src/data/segmentGuildData.ts": {
+      "sha256": "66015206b418215a745fff3ec4132fe79b1b365df4a68320d3260e208203c82d",
+      "gitBlob": "d540f353ad2fc2660bd0b0472e0a7124eb479cbc",
+      "bytes": 15540
+    },
+    "docs/licenses/low-poly-dungeon-info.txt": {
+      "sha256": "fec5192b22bd74b1d881cfe865f1189ea57b549b20e3243c12beab6b77eece66",
+      "gitBlob": "b53d73d0fe4567cacc32d4949349e7c79365cf5c",
+      "bytes": 593
+    },
+    "docs/licenses/kaykit-adventurers-license.txt": {
+      "sha256": "d4adc31660d1db22eb60eba648e01db41577548f6fa1a3576cb4a6283dae0a58",
+      "gitBlob": "f6062e1a4ab833ee21b22707247717b83ac7c682",
+      "bytes": 1554
+    },
+    "app/api/segment-analysis/route.ts": {
+      "sha256": "c45daa7cd7a6d504531233850abc49a4aa72c497190d90419043cfb07a9b4acc",
+      "gitBlob": "bf377ac0bbacdae505696e0a62f4e81bb812d18b",
+      "bytes": 10310
+    }
+  },
+  "verifiedOriginalSubtrees": {
+    "app": "6410b8e6f668a76166fd1ad7030b67ed12462166",
+    "src": "2834931b6cce95f720553e30f0a6cb75df58d039",
+    "public": "146c04ae3968665b04c95ceb0d1e22ca45d6d999",
+    "docs": "6cb75ca0b8c47e83d1f712daa7ed4282e1c18914"
+  },
+  "githubTreeResponseSha": "5a53e6c203ee38696aff63c0f461469263098c77",
+  "restorationNote": "Original file bytes and listed subtrees verified; file mode metadata was not reproduced from the original Git tree."
+}

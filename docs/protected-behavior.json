@@ -1,0 +1,34 @@
+{
+  "page-business-controller": {
+    "file": "app/page.tsx",
+    "start": "export default function HomePage() {",
+    "end": "\n  return (\n    <main",
+    "sha256": "6de212b56e032cfcb79adda5ac1fc52201c88f1bf128f9cbebf8e1ebf86be5b6"
+  },
+  "character-motion-profiles": {
+    "file": "src/components/SegmentGuildCanvas.tsx",
+    "start": "function getCanvasMotionProfile",
+    "end": "export function SegmentGuildCanvas",
+    "sha256": "16e2ccb0d485f365e0a9b8f77e8e6c5c8014a44f7b0a9fd5060543734fc57372"
+  },
+  "character-walk-and-rig-kernel": {
+    "file": "src/components/SegmentGuildCanvas.tsx",
+    "start": "      const clampRoamPosition",
+    "end": "        renderer.render(scene, camera);",
+    "exclude": "        atelier?.update(elapsed, atmosphereEnabledRef.current && !motionPreference.matches, selectedKeyRef.current, characterEntries);\n",
+    "sha256": "936b10f7870086df277673e7d13b357bb5ab02909a5b6ec32ee45ea6d604a000"
+  },
+  "character-raycasts": {
+    "file": "src/components/SegmentGuildCanvas.tsx",
+    "start": "      const raycaster =",
+    "end": "      const projectedBubble =",
+    "sha256": "27c121641b8d35411696e299cbce9e5f13aae7f513b21d51ae5db2cc92891191"
+  },
+  "group-auto-rotation": {
+    "file": "src/components/SegmentGuildCanvas.tsx",
+    "start": "  useEffect(() => {\n    if (conversationPaused) return;",
+    "end": "  }, [conversationPaused, onSelect, segments]);",
+    "include_end": true,
+    "sha256": "ee8161bc0f5dc0429db5eab1703829ad2681b979e4b0418de0394face4682a65"
+  }
+}

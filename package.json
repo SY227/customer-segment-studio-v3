@@ -1,0 +1,32 @@
+{
+  "name": "customer-segment-studio-v3",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check": "node scripts/verify.cjs",
+    "test": "node --test tests/*.test.cjs && node scripts/test-atelier-layer.cjs && node scripts/test-persistent-hall.cjs",
+    "typecheck": "next typegen && tsc --noEmit",
+    "qa": "npm run check && npm test && npm run typecheck && npm run build",
+    "qa:layout-fixtures": "node scripts/qa/render-layout-fixture.cjs"
+  },
+  "dependencies": {
+    "next": "16.2.2",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "three": "^0.181.1",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@types/three": "^0.181.0",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

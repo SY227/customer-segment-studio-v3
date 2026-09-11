@@ -1,0 +1,124 @@
+{
+  "src/components/SegmentGuildCanvas.tsx": [
+    {
+      "before": "scene.background = new THREE.Color(0x233140);",
+      "after": "scene.background = new THREE.Color(0xeff3f7);",
+      "occurrences": 1
+    },
+    {
+      "before": "scene.fog = new THREE.Fog(0x2a3949, 46, 72);",
+      "after": "scene.fog = new THREE.Fog(0xeff3f7, 46, 72);",
+      "occurrences": 1
+    },
+    {
+      "before": "new THREE.AmbientLight(0xf6ead0, 1.3)",
+      "after": "new THREE.AmbientLight(0xffffff, 0.95)",
+      "occurrences": 1
+    },
+    {
+      "before": "new THREE.HemisphereLight(0xf9e4b6, 0x37485b, 1.34)",
+      "after": "new THREE.HemisphereLight(0xf1f7ff, 0xd6c6b0, 1.28)",
+      "occurrences": 1
+    },
+    {
+      "before": "new THREE.DirectionalLight(0xffedc5, 1.75)",
+      "after": "new THREE.DirectionalLight(0xfff2db, 2.05)",
+      "occurrences": 1
+    },
+    {
+      "before": "new THREE.DirectionalLight(0xa9c6ee, 0.68)",
+      "after": "new THREE.DirectionalLight(0xd5e6ff, 0.95)",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x9a7652",
+      "after": "color: 0xded7c9",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x566575",
+      "after": "color: 0xcbd5dd",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x5d6c7b",
+      "after": "color: 0xd6dfe5",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x7a5d40",
+      "after": "color: 0xa99074",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x785b3d",
+      "after": "color: 0xb49875",
+      "occurrences": 3
+    },
+    {
+      "before": "color: 0x73593e",
+      "after": "color: 0xab9070",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x8a755d",
+      "after": "color: 0xf1e7d5",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x647281",
+      "after": "color: 0xdbe4ed",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x9c5062",
+      "after": "color: 0xa599cf",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x7b5e3e",
+      "after": "color: 0xd6c1a2",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x7a5c3d",
+      "after": "color: 0xd0bda0",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x7e5f3d",
+      "after": "color: 0xdcc6a5",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x70553a",
+      "after": "color: 0xc1ac8f",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x73563c",
+      "after": "color: 0xcdb89a",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x7e603e",
+      "after": "color: 0xd6bc93",
+      "occurrences": 1
+    },
+    {
+      "before": "color: 0x8a704d",
+      "after": "color: 0xd9c6a4",
+      "occurrences": 2
+    },
+    {
+      "before": "color: 0x7c5f40",
+      "after": "color: 0xd6c0a0",
+      "occurrences": 1
+    },
+    {
+      "before": "const frustumHeight = 11.2;",
+      "after": "// Keep the original camera angle and room; fit its width on narrow screens.\n        const frustumHeight = Math.max(11.2, 16.4 / aspect);",
+      "occurrences": 1
+    }
+  ]
+}

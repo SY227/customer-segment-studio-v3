@@ -1,0 +1,9 @@
+PASS desktop two-column layout no longer stretches sibling heights
+PASS hall panel opts out of sibling height stretching
+PASS desktop 3D viewport has fixed responsive height
+PASS wide-screen 3D viewport height is explicit
+PASS mid-size 3D viewport height is explicit
+PASS stacked-tablet 3D viewport height is explicit
+PASS mobile 3D viewport height is explicit
+
+7 persistent-hall layout checks passed.

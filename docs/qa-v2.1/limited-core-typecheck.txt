@@ -1,0 +1,1 @@
+Core files: 11 diagnostics: 0 (external Next/xlsx signatures mocked; not full application typecheck)

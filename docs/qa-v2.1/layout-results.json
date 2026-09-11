@@ -1,0 +1,4253 @@
+{
+  "scope": "Real Chromium rendering of actual JSX/CSS with stub hooks and blank WebGL placeholders. Not React/Next/WebGL runtime QA.",
+  "checks": [
+    {
+      "state": "all-members",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 300,
+          "height": 920,
+          "scrollHeight": 1029
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 300,
+          "height": 920,
+          "scrollHeight": 1720
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 300,
+          "height": 920,
+          "scrollHeight": 1405
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 320,
+      "width": 320,
+      "scroll": 320,
+      "dialogs": [
+        {
+          "width": 300,
+          "height": 522.828125,
+          "scrollHeight": 521
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 410,
+          "l": -190
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 390,
+          "l": -170
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 470,
+          "l": 100
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 390,
+          "l": 180
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 425,
+          "l": 145
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "all-members",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 370,
+          "height": 920,
+          "scrollHeight": 936
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 370,
+          "height": 920,
+          "scrollHeight": 1539
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 370,
+          "height": 920,
+          "scrollHeight": 1169
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 390,
+      "width": 390,
+      "scroll": 390,
+      "dialogs": [
+        {
+          "width": 370,
+          "height": 452.65625,
+          "scrollHeight": 451
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 480,
+          "l": -120
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 460,
+          "l": -100
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 537,
+          "l": 167
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 457,
+          "l": 247
+        },
+        {
+          "tag": "SPAN",
+          "class": "",
+          "r": 492,
+          "l": 212
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "all-members",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 736,
+          "height": 709.953125,
+          "scrollHeight": 708
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 736,
+          "height": 920,
+          "scrollHeight": 922
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 736,
+          "height": 846.265625,
+          "scrollHeight": 844
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 768,
+      "width": 768,
+      "scroll": 768,
+      "dialogs": [
+        {
+          "width": 736,
+          "height": 356.1875,
+          "scrollHeight": 354
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 858,
+          "l": 258
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 838,
+          "l": 278
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 784.578125,
+          "l": 264.578125
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "all-members",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 666.765625,
+          "scrollHeight": 665
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 903.921875,
+          "scrollHeight": 902
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 729.3125,
+          "scrollHeight": 727
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 1024,
+      "width": 1024,
+      "scroll": 1024,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 356.1875,
+          "scrollHeight": 354
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1114,
+          "l": 514
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1094,
+          "l": 534
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        },
+        {
+          "tag": "DIV",
+          "class": "header-engraving",
+          "r": 1034.4375,
+          "l": 514.4375
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "all-members",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 666.765625,
+          "scrollHeight": 665
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 903.921875,
+          "scrollHeight": 902
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 729.3125,
+          "scrollHeight": 727
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 1440,
+      "width": 1440,
+      "scroll": 1440,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 356.1875,
+          "scrollHeight": 354
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1530,
+          "l": 930
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1510,
+          "l": 950
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "all-members",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "default",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "error",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "format",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 666.765625,
+          "scrollHeight": 665
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-at-risk-vips",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-best-customers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-dormant-vips",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-growing-buyers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-inactive-customers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-light-repeaters",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-loyal-buyers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-new-buyers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "group-occasional-buyers",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "mapping",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 903.921875,
+          "scrollHeight": 902
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "members",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "privacy",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 729.3125,
+          "scrollHeight": 727
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "processing",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "quality",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    },
+    {
+      "state": "sample",
+      "viewport": 1920,
+      "width": 1920,
+      "scroll": 1920,
+      "dialogs": [
+        {
+          "width": 940,
+          "height": 356.1875,
+          "scrollHeight": 354
+        }
+      ],
+      "overflows": [
+        {
+          "tag": "I",
+          "class": "",
+          "r": 2010,
+          "l": 1410
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 1990,
+          "l": 1430
+        },
+        {
+          "tag": "I",
+          "class": "",
+          "r": 470,
+          "l": -260
+        }
+      ],
+      "pass": true
+    }
+  ]
+}

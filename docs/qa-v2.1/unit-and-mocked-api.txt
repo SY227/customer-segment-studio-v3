@@ -1,0 +1,376 @@
+TAP version 13
+# Subtest: sample has one reconciled source: 19 customers, 29 transactions, $3543 and June 20
+ok 1 - sample has one reconciled source: 19 customers, 29 transactions, $3543 and June 20
+  ---
+  duration_ms: 1.174314
+  type: 'test'
+  ...
+# Subtest: all nine identities, default selection, asset mapping, motion and room parameters are preserved
+ok 2 - all nine identities, default selection, asset mapping, motion and room parameters are preserved
+  ---
+  duration_ms: 0.922593
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 1 customers: same totals, bands and group coverage
+ok 3 - V2 scoring regression for 1 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 1.155987
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 2 customers: same totals, bands and group coverage
+ok 4 - V2 scoring regression for 2 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 0.52827
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 3 customers: same totals, bands and group coverage
+ok 5 - V2 scoring regression for 3 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 0.504435
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 8 customers: same totals, bands and group coverage
+ok 6 - V2 scoring regression for 8 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 0.862974
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 19 customers: same totals, bands and group coverage
+ok 7 - V2 scoring regression for 19 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 1.217969
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 90 customers: same totals, bands and group coverage
+ok 8 - V2 scoring regression for 90 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 2.900263
+  type: 'test'
+  ...
+# Subtest: V2 scoring regression for 201 customers: same totals, bands and group coverage
+ok 9 - V2 scoring regression for 201 customers: same totals, bands and group coverage
+  ---
+  duration_ms: 6.432981
+  type: 'test'
+  ...
+# Subtest: single customer and complete ties keep middle scores rather than fabricated VIP/first-order categories
+ok 10 - single customer and complete ties keep middle scores rather than fabricated VIP/first-order categories
+  ---
+  duration_ms: 0.626636
+  type: 'test'
+  ...
+# Subtest: as-of remains latest valid transaction, never the wall clock
+ok 11 - as-of remains latest valid transaction, never the wall clock
+  ---
+  duration_ms: 0.248568
+  type: 'test'
+  ...
+# Subtest: invalid normalized rows remain excluded by the deterministic engine
+ok 12 - invalid normalized rows remain excluded by the deterministic engine
+  ---
+  duration_ms: 0.224682
+  type: 'test'
+  ...
+# Subtest: empty deterministic dataset rejects
+ok 13 - empty deterministic dataset rejects
+  ---
+  duration_ms: 0.368183
+  type: 'test'
+  ...
+# Subtest: quoted CSV, BOM, CRLF, escaped quote and comma-in-ID are handled
+ok 14 - quoted CSV, BOM, CRLF, escaped quote and comma-in-ID are handled
+  ---
+  duration_ms: 3.503735
+  type: 'test'
+  ...
+# Subtest: quoted multiline field is supported without promoting a free-text note into analysis
+ok 15 - quoted multiline field is supported without promoting a free-text note into analysis
+  ---
+  duration_ms: 0.179745
+  type: 'test'
+  ...
+# Subtest: malformed CSV quoting is rejected, not silently repaired
+ok 16 - malformed CSV quoting is rejected, not silently repaired
+  ---
+  duration_ms: 0.171343
+  type: 'test'
+  ...
+# Subtest: missing and extra fields do not silently shift columns
+ok 17 - missing and extra fields do not silently shift columns
+  ---
+  duration_ms: 0.214857
+  type: 'test'
+  ...
+# Subtest: all prescribed column aliases resolve positionally
+ok 18 - all prescribed column aliases resolve positionally
+  ---
+  duration_ms: 0.716459
+  type: 'test'
+  ...
+# Subtest: normalization accepts spacing/case and does not pick an ambiguous ID column
+ok 19 - normalization accepts spacing/case and does not pick an ambiguous ID column
+  ---
+  duration_ms: 0.327153
+  type: 'test'
+  ...
+# Subtest: duplicate header names remain distinct column choices; no object-key overwrite
+ok 20 - duplicate header names remain distinct column choices; no object-key overwrite
+  ---
+  duration_ms: 0.255057
+  type: 'test'
+  ...
+# Subtest: field mapping must use distinct in-range integer column positions
+ok 21 - field mapping must use distinct in-range integer column positions
+  ---
+  duration_ms: 0.219795
+  type: 'test'
+  ...
+# Subtest: invalid records have explicit overlapping issue counts; blank records counted separately
+ok 22 - invalid records have explicit overlapping issue counts; blank records counted separately
+  ---
+  duration_ms: 0.326342
+  type: 'test'
+  ...
+# Subtest: date parsing never silently rolls February 30 into March
+ok 23 - date parsing never silently rolls February 30 into March
+  ---
+  duration_ms: 0.08116
+  type: 'test'
+  ...
+# Subtest: ambiguous local dates require explicit MDY or DMY
+ok 24 - ambiguous local dates require explicit MDY or DMY
+  ---
+  duration_ms: 0.204833
+  type: 'test'
+  ...
+# Subtest: ISO timestamps require a timezone and are reduced to UTC day
+ok 25 - ISO timestamps require a timezone and are reduced to UTC day
+  ---
+  duration_ms: 0.135099
+  type: 'test'
+  ...
+# Subtest: Excel serials: 1900 leap-day fiction rejected; 1904 dates supported
+ok 26 - Excel serials: 1900 leap-day fiction rejected; 1904 dates supported
+  ---
+  duration_ms: 0.085617
+  type: 'test'
+  ...
+# Subtest: blank amount never becomes zero; grouping separators and decimals are validated
+ok 27 - blank amount never becomes zero; grouping separators and decimals are validated
+  ---
+  duration_ms: 0.153076
+  type: 'test'
+  ...
+# Subtest: negative and zero amounts preserve baseline signed-row behavior with warnings
+ok 28 - negative and zero amounts preserve baseline signed-row behavior with warnings
+  ---
+  duration_ms: 0.239374
+  type: 'test'
+  ...
+# Subtest: signed proportions are not clamped or divided by 100 in the UI adapter
+ok 29 - signed proportions are not clamped or divided by 100 in the UI adapter
+  ---
+  duration_ms: 0.51481
+  type: 'test'
+  ...
+# Subtest: nonpositive totals suppress proportion meaning, not the signed historical values
+ok 30 - nonpositive totals suppress proportion meaning, not the signed historical values
+  ---
+  duration_ms: 0.282527
+  type: 'test'
+  ...
+# Subtest: repeated rows are deliberately kept, not silently deduplicated
+ok 31 - repeated rows are deliberately kept, not silently deduplicated
+  ---
+  duration_ms: 0.215619
+  type: 'test'
+  ...
+# Subtest: all-invalid imported file rejects rather than reverting to demo metrics
+ok 32 - all-invalid imported file rejects rather than reverting to demo metrics
+  ---
+  duration_ms: 0.143922
+  type: 'test'
+  ...
+# Subtest: large member results are complete; 10,001 customers rejected rather than truncated
+ok 33 - large member results are complete; 10,001 customers rejected rather than truncated
+  ---
+  duration_ms: 39.064694
+  type: 'test'
+  ...
+# Subtest: rejected record examples are bounded without dropping totals
+ok 34 - rejected record examples are bounded without dropping totals
+  ---
+  duration_ms: 0.435994
+  type: 'test'
+  ...
+# Subtest: action CSV contains exactly the selected customers, plus evidence and labeled suggestions
+ok 35 - action CSV contains exactly the selected customers, plus evidence and labeled suggestions
+  ---
+  duration_ms: 1.126384
+  type: 'test'
+  ...
+# Subtest: full CSV export reconciles to all members, not a rendered table page
+ok 36 - full CSV export reconciles to all members, not a rendered table page
+  ---
+  duration_ms: 5.965511
+  type: 'test'
+  ...
+# Subtest: CSV protects formula-like text without changing numeric negative values
+ok 37 - CSV protects formula-like text without changing numeric negative values
+  ---
+  duration_ms: 0.181017
+  type: 'test'
+  ...
+# Subtest: export rejects foreign member IDs
+ok 38 - export rejects foreign member IDs
+  ---
+  duration_ms: 0.224432
+  type: 'test'
+  ...
+# Subtest: identifiers that look like object prototype keys are safe Map values
+ok 39 - identifiers that look like object prototype keys are safe Map values
+  ---
+  duration_ms: 0.28448
+  type: 'test'
+  ...
+# Subtest: export facts are resolved from the analysis, not a caller-modified member object
+ok 40 - export facts are resolved from the analysis, not a caller-modified member object
+  ---
+  duration_ms: 0.220415
+  type: 'test'
+  ...
+# Subtest: export refuses duplicate member requests
+ok 41 - export refuses duplicate member requests
+  ---
+  duration_ms: 0.154257
+  type: 'test'
+  ...
+# Subtest: member spend reconciles within each segment as well as the full review
+ok 42 - member spend reconciles within each segment as well as the full review
+  ---
+  duration_ms: 0.118655
+  type: 'test'
+  ...
+# Subtest: 50,000 valid records stay complete at the defined row boundary
+ok 43 - 50,000 valid records stay complete at the defined row boundary
+  ---
+  duration_ms: 395.060444
+  type: 'test'
+  ...
+# Subtest: API no-key sample returns complete deterministic evidence and no-store headers
+ok 44 - API no-key sample returns complete deterministic evidence and no-store headers
+  ---
+  duration_ms: 223.341079
+  type: 'test'
+  ...
+# Subtest: inspect endpoint returns column preview, not an analyzed demo or AI request
+ok 45 - inspect endpoint returns column preview, not an analyzed demo or AI request
+  ---
+  duration_ms: 100.018095
+  type: 'test'
+  ...
+# Subtest: canonical upload still works and returns real member IDs
+ok 46 - canonical upload still works and returns real member IDs
+  ---
+  duration_ms: 76.439442
+  type: 'test'
+  ...
+# Subtest: ambiguous mapping returns 422 until the user chooses a source column
+ok 47 - ambiguous mapping returns 422 until the user chooses a source column
+  ---
+  duration_ms: 62.72663
+  type: 'test'
+  ...
+# Subtest: validation rejects bad mode, malformed encoding, and oversized files
+ok 48 - validation rejects bad mode, malformed encoding, and oversized files
+  ---
+  duration_ms: 55.308865
+  type: 'test'
+  ...
+# Subtest: cross-origin uploads are refused; same-origin requests are accepted
+ok 49 - cross-origin uploads are refused; same-origin requests are accepted
+  ---
+  duration_ms: 55.431045
+  type: 'test'
+  ...
+# Subtest: all-invalid file returns 422 instead of a fake successful demo
+ok 50 - all-invalid file returns 422 instead of a fake successful demo
+  ---
+  duration_ms: 60.081834
+  type: 'test'
+  ...
+# Subtest: AI must be requested; a configured key alone never invokes it
+ok 51 - AI must be requested; a configured key alone never invokes it
+  ---
+  duration_ms: 65.951553
+  type: 'test'
+  ...
+# Subtest: AI whitelist prevents injection of hard metrics, members, labels or top-level totals
+ok 52 - AI whitelist prevents injection of hard metrics, members, labels or top-level totals
+  ---
+  duration_ms: 67.312633
+  type: 'test'
+  ...
+# Subtest: filenames and customer IDs are never included in the provider prompt
+ok 53 - filenames and customer IDs are never included in the provider prompt
+  ---
+  duration_ms: 58.073808
+  type: 'test'
+  ...
+# Subtest: provider failure falls back promptly with an explicit status; no fabricated metrics
+ok 54 - provider failure falls back promptly with an explicit status; no fabricated metrics
+  ---
+  duration_ms: 51.523844
+  type: 'test'
+  ...
+# Subtest: requested AI without a key returns deterministic results and disclosed fallback
+ok 55 - requested AI without a key returns deterministic results and disclosed fallback
+  ---
+  duration_ms: 48.132095
+  type: 'test'
+  ...
+# Subtest: provider text filtering rejects unsupported claims and duplicated labels
+ok 56 - provider text filtering rejects unsupported claims and duplicated labels
+  ---
+  duration_ms: 10.4073
+  type: 'test'
+  ...
+# Subtest: partial AI guidance records soft-field provenance without relabeling untouched templates
+ok 57 - partial AI guidance records soft-field provenance without relabeling untouched templates
+  ---
+  duration_ms: 46.697567
+  type: 'test'
+  ...
+# Subtest: REAL XLSX parser: first sheet, serial dates, numeric values and record reconciliation
+ok 58 - REAL XLSX parser: first sheet, serial dates, numeric values and record reconciliation # SKIP DELIVERY ENVIRONMENT: Excel package not installed; real parser test not executed
+  ---
+  duration_ms: 0.551535
+  type: 'test'
+  ...
+# Subtest: REAL legacy XLS parser preserves the CSV-compatible input path
+ok 59 - REAL legacy XLS parser preserves the CSV-compatible input path # SKIP DELIVERY ENVIRONMENT: Excel package not installed; real parser test not executed
+  ---
+  duration_ms: 0.085647
+  type: 'test'
+  ...
+# Subtest: REAL XLSX parser rejects formula cells in selected fields instead of executing them
+ok 60 - REAL XLSX parser rejects formula cells in selected fields instead of executing them # SKIP DELIVERY ENVIRONMENT: Excel package not installed; real parser test not executed
+  ---
+  duration_ms: 0.068321
+  type: 'test'
+  ...
+# Subtest: REAL XLSX first-tab policy and 1904 workbook dates are visible
+ok 61 - REAL XLSX first-tab policy and 1904 workbook dates are visible # SKIP DELIVERY ENVIRONMENT: Excel package not installed; real parser test not executed
+  ---
+  duration_ms: 0.091185
+  type: 'test'
+  ...
+1..61
+# tests 61
+# suites 0
+# pass 57
+# fail 0
+# cancelled 0
+# skipped 4
+# todo 0
+# duration_ms 1188.130031

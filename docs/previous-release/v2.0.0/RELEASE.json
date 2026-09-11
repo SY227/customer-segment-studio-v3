@@ -1,0 +1,19 @@
+{
+  "release": "Customer Segment Studio V2 \u2014 Guild Atelier",
+  "version": "2.0.0",
+  "base": "customer-segment-studio-v3-light-v1.0.0.zip",
+  "base_sha256": "a5d6a82aea63026d9e63aa1ab090790ba87945a9bbeeda1c210ab215351faceb",
+  "original_character_glbs": 9,
+  "original_model_texture_files": 35,
+  "new_dependencies": [],
+  "tests": {
+    "source_and_isolated_business": 92,
+    "decorative_lifecycle_adapter": 8,
+    "css_and_isolated_pointer": 83,
+    "persistent_hall_regression": 7
+  },
+  "next_build": "not completed: npm registry unreachable",
+  "webgl_runtime": "not executed in delivery environment",
+  "fix": "Buyer detail height is decoupled from the all-character 3D hall so switching groups no longer resizes the hall or shifts its background.",
+  "artifact_origin": "V3 Artisan v1.1.1 \u2014 Persistent Hall Fix"
+}

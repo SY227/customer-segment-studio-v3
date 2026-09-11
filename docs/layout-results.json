@@ -1,0 +1,495 @@
+[
+  {
+    "width": 320,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 320,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 320,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 320,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 320,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 360,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 360,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 360,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 360,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 360,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 430,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 430,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 430,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 430,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 430,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 640,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 640,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 640,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 640,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 640,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 768,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 768,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 768,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 768,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 768,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 980,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 980,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 980,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 980,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 980,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1024,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1024,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1024,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1024,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1024,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1180,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1180,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1180,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1180,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1180,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1280,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1280,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1280,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1280,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1280,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1440,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1440,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1440,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1440,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1440,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1600,
+    "state": "default",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1600,
+    "state": "format",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1600,
+    "state": "sample",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1600,
+    "state": "processing",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 1600,
+    "state": "error",
+    "passed": true,
+    "scope": "CSS/DOM fixture, no React/Next/WebGL runtime"
+  },
+  {
+    "width": 390,
+    "state": "best-customers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "loyal-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "new-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "at-risk-vips",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "growing-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "occasional-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "dormant-vips",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "light-repeaters",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 390,
+    "state": "inactive-customers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "best-customers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "loyal-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "new-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "at-risk-vips",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "growing-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "occasional-buyers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "dormant-vips",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "light-repeaters",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "width": 1440,
+    "state": "inactive-customers",
+    "passed": true,
+    "scope": "CSS selected-state fixture"
+  },
+  {
+    "state": "keyboard-focus",
+    "passed": true,
+    "scope": "CSS fixture"
+  },
+  {
+    "state": "reduced-motion-css",
+    "passed": true,
+    "scope": "CSS fixture"
+  },
+  {
+    "state": "sheen-chrome-effect",
+    "passed": true,
+    "scope": "real Chrome effect with useEffect adapter; not React runtime"
+  },
+  {
+    "state": "sheen-live-reduced-motion",
+    "passed": true,
+    "scope": "real Chrome effect with useEffect adapter"
+  },
+  {
+    "state": "sheen-listener-cleanup",
+    "passed": true,
+    "scope": "effect cleanup executes without throwing"
+  }
+]
